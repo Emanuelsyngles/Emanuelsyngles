@@ -3,9 +3,11 @@
 ### Olá bem vindo, Emanuel aqui!
 <link rel="stylesheet" href="style.css">
 <div aling="center">
-<h1>Tecnologias favoritas</h1>
-   <img src="imagens/html5.png" alt="#">
-   <img src="imagens/css.png" alt="#">
-   <img src="imagens/javascript.png" alt="#">
-   <img src="imagens/react.png" alt="#">
+<div aling="left">
+    <h1 aling="center">Tecnologias favoritas</h1>
+       <img src="imagens/html5.png" alt="#">
+       <img src="imagens/css.png" alt="#">
+       <img src="imagens/javascript.png" alt="#">
+       <img src="imagens/react.png" alt="#">
+</div>
 </div>
