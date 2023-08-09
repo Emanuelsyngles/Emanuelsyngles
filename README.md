@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=yeblu&theme=dark&show_icons=true" alt="#">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="#">
  
 ### Olá bem vindo, Emanuel aqui!
 <link rel="stylesheet" href="style.css">
