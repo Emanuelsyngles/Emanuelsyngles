@@ -3,7 +3,7 @@
 ### Olá bem vindo, Emanuel aqui!
 <link rel="stylesheet" href="style.css">
 <div aling="center">
-<div aling="left">
+<div style="display: inline_block"><br>
     <h1 aling="center">Tecnologias favoritas</h1>
        <img src="imagens/html5.png" alt="#">
        <img src="imagens/css.png" alt="#">
