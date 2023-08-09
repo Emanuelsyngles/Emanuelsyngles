@@ -5,4 +5,5 @@
    <img src="imagens/html5.png" alt="#">
    <img src="imagens/css.png" alt="#">
    <img src="imagens/javascript.png" alt="#">
+   <img src="imagens/react.png" alt="#">
 </div>
