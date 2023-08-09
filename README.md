@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="#">
-<img src="https://github-readme-stats.vercel.app/api?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby" alt="#">
+<img aling="right" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby" alt="#">
  
 ### Olá bem vindo, Emanuel aqui!
 <link rel="stylesheet" href="style.css">
