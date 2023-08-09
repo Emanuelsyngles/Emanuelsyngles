@@ -1,4 +1,4 @@
-## Faaaala pessoal, Emanuel Aqui! :)
+## Bem vindo ao meu repositório, espero que goste!
 
 <div>
   
