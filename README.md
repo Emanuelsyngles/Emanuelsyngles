@@ -1,4 +1,4 @@
-## Bem vindo ao meu repositório, espero que goste!
+## Bem vindo ao meu repositório, espero que goste! :)
 
 <div>
   
