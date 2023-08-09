@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="style.css">
 <div aling="center">
 <div style="display: inline_block"><br>
-    <h1 aling="center">Tecnologias favoritas</h1>
+    <h1 textaling="center">Tecnologias favoritas</h1>
        <img aling="center" src="imagens/html5.png" alt="#">
        <img src="imagens/css.png" alt="#">
        <img src="imagens/javascript.png" alt="#">
