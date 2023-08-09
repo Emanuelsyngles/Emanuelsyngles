@@ -2,7 +2,7 @@
  
 ### Olá bem vindo, Emanuel aqui!
 <link rel="stylesheet" href="style.css">
-<div>
+<div aling="center">
 <h1>Tecnologias favoritas</h1>
    <img src="imagens/html5.png" alt="#">
    <img src="imagens/css.png" alt="#">
