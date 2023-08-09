@@ -10,6 +10,8 @@
 <div  align="center"> 
   <div style="display: inline_block">
     <a href="" target="_blank"><img src="imagens/gmail.png" alt="#"></a>
+    <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="imagens/linkedin.png" alt="#"></a>
+    
   <br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
