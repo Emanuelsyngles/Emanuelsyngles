@@ -20,6 +20,7 @@
       <p>Esse é o javascript, linguagem responsavel pelas funcionalidades de uma página web.<p/>
       <p>----------------------------------------------------------------------------------------------------</p>
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <p>----------------------------------------------------------------------------------------------------</p>
       <p>Esse é o React, é um framework do javascript com foco em criar interfaces de usuário em páginas web.</p>
       <p>-------------------------------------------------------------------------------------------------------------</p>
       <p>O HTML é uma linguagem de marcação que que ajuda na criação de páginas web, sendo interpretada pelo navegador</p>
