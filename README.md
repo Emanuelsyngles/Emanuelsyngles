@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block">
     <a href="mailto: emanuelslealviveiros@gmail.com" target="_blank"><img src="imagens/gmail (2).png" alt="#"></a>
-    <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="imagens/linkedin.png" alt="#"></a>
+    <a href="https://linkedin.com/in/emanuel-leal/" target="_blank"><img src="imagens/linkedin.png" alt="#"></a>
     
   <br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
