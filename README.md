@@ -6,8 +6,8 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-<p>Entre em contato por aqui</p>
 <div  align="center"> 
+  <p>Entre em contato por aqui</p>
   <div style="display: inline_block">
     <a href="mailto: emanuelslealviveiros@gmail.com" target="_blank"><img src="imagens/gmail (2).png" alt="#"></a>
     <a href="https://linkedin.com/in/emanuel-leal/" target="_blank"><img src="imagens/linkedin.png" alt="#"></a>
