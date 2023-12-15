@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bluesize=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emanuel+Leal;Tenho+21+anos+e++Sou+Desenvolvedor+Frontend;Estou+me+graduando+em+Engenharia+de+software;Bem+vindo!+:%29)](https://git.io/typing-svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emanuelsyngles&bg_color=000000&color=ffffff&line=ffffff&point=3147E9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <div  align="center"> 
   <p>Entre em contato por aqui</p>
