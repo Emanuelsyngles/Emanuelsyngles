@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bluesize=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emanuel+Leal;Tenho+21+anos+e++Sou+Software+Developer;Estou+me+graduando+em+Engenharia+de+software;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bluesize=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emanuel+Leal;Tenho+21+anos+e++Sou+Desenvolvedor+Frontend;Estou+me+graduando+em+Engenharia+de+software;Bem+vindo!+:%29)](https://git.io/typing-svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 <br>
 <div  align="center"> 
