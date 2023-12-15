@@ -1,4 +1,3 @@
-## Bem vindo ao meu repositório, espero que goste! :)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emanuelsyngles&bg_color=000000&color=ffffff&line=32CD32&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
