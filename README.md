@@ -1,5 +1,5 @@
 ## Bem vindo ao meu repositório, espero que goste! :)
-<img width=100% src="https://capsule-render.vercel.app/api?type=wavingãcolor=ff91e44height=1208section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
