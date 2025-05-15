@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bluesize=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emanuel+Leal;Tenho+22+anos+e++Sou+SRE/DEVOPS+;Estou+me+graduando+em+Engenharia+de+software;Bem+vindo!+:%29)](https://git.io/typing-svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 <div  align="center"> 
   <p>Entre em contato por aqui</p>
   <div style="display: inline_block">
@@ -14,7 +14,6 @@
    <h3>Skills que Estou estudando</h3>
    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
