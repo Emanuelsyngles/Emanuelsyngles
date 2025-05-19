@@ -11,8 +11,6 @@
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain.svg">
        <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
-   <h3>Skills que Estou estudando</h3>
-   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
